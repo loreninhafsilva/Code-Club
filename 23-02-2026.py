@@ -10,7 +10,7 @@ levantamento = [
     "Scaptotrigona postica"
 ]
 # 1)
-print("========Ninhos observados========")9
+print("========Ninhos observados========")
 for i, ninho in enumerate(levantamento, start=1): #Usar a função enumerate() para iterar sobre a lista levantamento
     print(f"{i}. {ninho}")
 
